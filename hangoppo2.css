@@ -1,0 +1,82 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#websitehangiphone
+{
+    width: 1520px;
+    /* height: 700px; */
+    margin: auto;
+    margin-top: 15px;
+    /* border: 5px solid red; */
+}
+#topiphone
+{
+    width: 1300px;
+    height: 450px;
+    margin: auto;
+    margin-top: 15px;
+    /* border: 1px solid#000; */
+}
+.sanphammoi
+{
+    width: 1300px;
+    height: 50px;
+    margin: 5px;
+    margin: auto;
+    font-size: 25px;
+    /* border: 1px solid#000; */
+}
+a
+{
+    text-decoration:none;
+}
+#products
+{
+    margin-left:17px;
+}
+#products ul li
+{
+    width: 230px;
+    height: 340px;
+    /* border: 1px solid #000; */
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    list-style-type:none;
+}
+.content
+{
+    width: 200px;
+    height: 200px;
+    /* border: 1px solid #000; */
+    margin: 9px 10px 9px 10px;
+}
+.tensanpham
+{
+    margin-top: 6px;
+    text-align:center;
+    color:#F09;
+}
+.giasanpham
+{
+    margin-top:3px;
+    text-align:center;
+    font-size:12px;
+    color:#999999;
+}
+#products ul li:hover
+{
+    background: wheat;
+    box-shadow:0 0 5px #2c2c30; /*đổ bóng*/
+}
+del {
+    text-decoration: line-through;
+}

@@ -1,0 +1,213 @@
+body
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:small;
+    background: #F0F0F0
+}
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+#website
+{
+    width: 1300px;
+    /* height: 700px; */
+    margin: auto;
+    margin-top: 15px;
+    /* border: 1px solid red; */
+
+}
+#top
+{
+    width: 1300px;
+    height: 450px;
+    margin: auto;
+    /* border: 1px solid#000; */
+    background: white;
+}
+.sanphammoi
+{
+    width: 1300px;
+    height: 50px;
+    margin: 5px;
+    margin: auto;
+    font-size: 25px;
+    /* border: 1px solid#000; */
+}
+a
+{
+    text-decoration:none;
+}
+#top2
+{
+    width: 1300px;
+    height: 450px;
+    margin: auto;
+    margin-top: 15px;
+    /* border: 1px solid#000; */
+    background: white;
+}
+#sanphambanchay
+{
+    width: 1300px;
+    height: 50px;
+    margin: 5px;
+    font-size: 25px;
+    /* border: 1px solid#000; */
+}
+#menusanphambanchay
+{
+    width: 1000px;
+    height: 30px;
+    float: right;
+    margin-top: 15px;
+    /* border: 1px solid#000; */
+}
+#menusanphambanchay li
+{
+    float: left;
+    border-right:1px dotted gray
+}
+#menusanphambanchay ul
+{
+    float: right;
+    font-size: 16px;
+    list-style-type: none;
+}
+#menusanphambanchay ul li a
+{
+    padding: 20px 70px 0 40px;
+}
+#top3
+{
+    width: 1300px;
+    height: 850px;
+    margin: auto;
+    margin-top: 15px;
+    /* border: 1px solid#000; */
+    background: white;
+}
+#tatcasanpham
+{
+    width: 1300px;
+    height: 50px;
+    margin: 5px; 
+    font-size: 25px;
+    /* border: 1px solid#000; */
+}
+#products
+{
+    margin-left:17px;
+}
+#products ul li
+{
+    width: 230px;
+    height: 340px;
+    /* border: 1px solid #000; */
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+    list-style-type:none;
+}
+.content
+{
+    width: 200px;
+    height: 200px;
+    /* border: 1px solid #000; */
+    margin: 9px 10px 9px 10px;
+}
+.tensanpham
+{
+    margin-top: 6px;
+    text-align:center;
+    color:#F09;
+}
+.giasanpham
+{
+    margin-top:3px;
+    text-align:center;
+    font-size:12px;
+    color:#999999;
+}
+#products ul li:hover
+{
+    background: wheat;
+    box-shadow:0 0 5px #2c2c30; /*đổ bóng*/
+}
+del {
+    text-decoration: line-through;
+}
+.xemtatca p
+{
+    margin:a 0px;
+    padding: 0px;
+    font-weight: bold;
+}
+.xemtatca input
+{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.xemtatca input[type="text"],input[type="password"]
+{
+    border: none;
+    border-bottom: 1px solid#000;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color:#000;
+    font-size: 16px;
+}
+#cuoicung
+{
+    width: 1510px;
+    height: 200px;
+    margin: auto;
+    margin-top: 15px;
+    border: 1px solid#000;
+    background: black;
+}
+#cuoicung1
+{
+    width: 25%;
+    height: 150px;
+    border: 1px solid#000;
+    float: left;
+}
+#cuoicung1 p
+{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    color:white;
+}
+#cuoicung2
+{
+    width: 25%;
+    height: 150px;
+    border: 1px solid#000;
+    float: left;
+}
+#cuoicung2 p
+{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    color:white;
+}
+#cuoicung3
+{
+    width: 100%;
+    height: 70px;
+    border: 1px solid#000;
+    margin-top: 150px;
+}
+#cuoicung3 p
+{
+    font-size: 15px;
+    color:white;
+    float: right;
+    margin-right: 20px;
+}

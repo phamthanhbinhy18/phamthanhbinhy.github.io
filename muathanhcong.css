@@ -1,0 +1,71 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: #6E6E6E;
+}
+#muahang
+{
+    width: 90%;
+    background: none;
+    height: 100px;
+    margin: auto;
+    margin-top: 40px;
+}
+#muahang h1
+{
+    color: orange;
+    text-align: center;
+}
+#cuoicung
+{
+    width: 90%;
+    height: 200px;
+    margin: auto;
+    margin-top: 300px;
+    border: 1px solid#000;
+    background: black;
+    border-radius: 40px;
+}
+#cuoicung1
+{
+    width: 25%;
+    height: 150px;
+    /* border: 1px solid#000; */
+    float: left;
+}
+#cuoicung1 p
+{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    color:white;
+}
+#cuoicung2
+{
+    width: 25%;
+    height: 150px;
+    /* border: 1px solid#000; */
+    float: left;
+}
+#cuoicung2 p
+{
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 15px;
+    color:white;
+}
+#cuoicung3
+{
+    width: 100%;
+    height: 70px;
+    /* border: 1px solid#000; */
+    margin-top: 150px;
+}
+#cuoicung3 p
+{
+    font-size: 15px;
+    color:white;
+    float: right;
+    margin-right: 20px;
+}
